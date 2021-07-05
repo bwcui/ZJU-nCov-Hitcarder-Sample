@@ -42,6 +42,11 @@ jobs:
             dingtalk_token: DINGTALK_TOKEN6
             pushplus_token: PUSHPLUS_TOKEN6
             serverchan_key: SERVERCHAN_KEY6
+          - username: ZJU_USERNAME7
+            password: ZJU_PASSWORD7
+            dingtalk_token: DINGTALK_TOKEN7
+            pushplus_token: PUSHPLUS_TOKEN7
+            serverchan_key: SERVERCHAN_KEY7
 
     steps:
       - name: Working
